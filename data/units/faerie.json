@@ -11,8 +11,8 @@
   "damage": 9,
   "mechanics": {
     "stealth": {
-      "duration": -1,
-      "break_on_attack": true
+      "break_on_attack": true,
+      "duration": -1
     }
   },
   "health": 100,

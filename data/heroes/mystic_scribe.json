@@ -15,11 +15,11 @@
     "passive": [
       {
         "name": "Echo of Mercy",
-        "description": "While on the ground, the Mystic Scribe emits a healing aura."
+        "description": "While on the ground, the Mystic Scribe emits a aura that heals for 10 per second.",
       },
       {
         "name": "Holy Magic Mastery",
-        "description": "All Holy incantations recharge faster."
+        "description": "All Holy incantations recharge 16.7% faster."
       },
       {
         "name": "Thousand Favors",

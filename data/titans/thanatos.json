@@ -14,7 +14,7 @@
         "name": "Aura of Decay",
         "description": "Reduces damage of nearby spellcasters.",
         "radius": 15,
-        "value": 0.5,
+        "value": 0.4,
         "interval": 1,
         "effect": "Debuff",
         "target_types": [

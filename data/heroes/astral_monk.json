@@ -10,7 +10,7 @@
       "charges": 2,
       "cooldown": 10,
       "description": "Turns invisible and move faster.",
-      "duration": 1.5,
+      "duration": 3,
       "mechanics": {
         "stealth": {
           "break_on_attack": true,
