@@ -42,7 +42,8 @@
     },
     "ultimate": {
       "name": "Dimension of Varani",
-      "description": "Conjures a time bubble that freezes enemy projectiles and creatures inside it. The Ultimate is destroyed by Lifestone Large Shots (3 hits)."
+      "description": "Conjures a time bubble that freezes enemy projectiles and creatures inside it. The Ultimate is destroyed by Lifestone Large Shots (3 hits).",
+      "duration": 30
     }
   },
   "description": "A Duelist who strikes from the shadows with fast astral fists and time-bending abilities.",
