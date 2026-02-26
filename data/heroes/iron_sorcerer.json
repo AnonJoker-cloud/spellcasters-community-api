@@ -23,7 +23,7 @@
       },
       {
         "name": "Field Commander",
-        "description": "While on the ground, nearby creatures gain a strong defensive buff."
+        "description": "While on the ground, nearby creatures gain +34.6% Damage Resistance."
       }
     ],
     "primary": {
@@ -37,7 +37,21 @@
     "ultimate": {
       "name": "Iron Tempest",
       "description": "Unleash a metal vortex that deals heavy damage, staggers/knocks back all creatures inside.",
-      "damage": 67,
+      "damage": 52,
+      "mechanics": {
+        "interval": 1,
+        "waves": 21,
+        "damage_modifiers": [
+          {
+            "target_types": ["Spellcaster"],
+            "multiplier": 0.095
+          },
+          {
+            "target_types": ["Lifestone"],
+            "multiplier": 0.095
+          }
+        ]
+      },
       "duration": 3
     }
   },

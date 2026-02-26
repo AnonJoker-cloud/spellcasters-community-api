@@ -19,9 +19,21 @@
   "mechanics": {
     "damage_modifiers": [
       {
+        "multiplier": 0.057,
+        "target_types": [
+          "Spellcaster"
+        ]
+      },
+      {
         "multiplier": 0.27,
         "target_types": [
           "Building"
+        ]
+      },
+      {
+        "multiplier": 0.0419,
+        "target_types": [
+          "Lifestone"
         ]
       }
     ]
